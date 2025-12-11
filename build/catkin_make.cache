@@ -1,0 +1,2 @@
+patchwork-plusplus-ros
+-DCATKIN_DEVEL_PREFIX=/home/kkcqh/dengyinghao/work/patchwork/patchwork_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kkcqh/dengyinghao/work/patchwork/patchwork_ws/install -G Unix Makefiles
